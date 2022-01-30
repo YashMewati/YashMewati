@@ -4,6 +4,7 @@
 
 ### :man_technologist: Ａｂｏｕｔ Ｍｅ
 
+
 <img src="https://user-images.githubusercontent.com/85125898/151713022-080f8a0f-0089-4b5b-aba3-f05596ab49c4.png" width="20" height="20"> 🔹 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠, 𝐀𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐚𝐧𝐝 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐚𝐬 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭
 
 <img src="https://user-images.githubusercontent.com/85125898/151712979-649fee56-3792-45aa-b37c-92e34e1c4db7.png" width="20" height="20"> 🔹 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐂𝐫𝐞𝐚𝐭𝐞 𝐭𝐡𝐞 𝐀𝐈 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐜𝐚𝐩𝐚𝐛𝐥𝐞 𝐨𝐟 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐦𝐚𝐤𝐢𝐧𝐠 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧𝐬 𝐚𝐬 𝐌𝐋 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
