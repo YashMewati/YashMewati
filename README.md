@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/85125898/151712521-690f224d-369c-4cbe-bd9f-7ff12689cfb9.png" width="20" height="20"> 🔹 𝐓𝐡𝐞 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐌𝐚𝐧𝐮𝐟𝐚𝐜𝐭𝐮𝐫𝐢𝐧𝐠, 𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐨𝐟 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐬 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
-<img src="https://user-images.githubusercontent.com/85125898/151712448-2cb367a1-f845-4112-b8c1-0f7211c472f8.png" width="20" height="20"> 🔹 𝗖𝗿𝗲𝗮𝘁𝗲𝘀 𝗦𝗮𝘁𝗶𝘀𝗳𝘆𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗼𝗺𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 𝗳𝗼𝗿 𝗨𝘀𝗲𝗿𝘀 𝗼𝗳 𝗮 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗮𝘀 𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿
+<img src="https://user-images.githubusercontent.com/85125898/151712448-2cb367a1-f845-4112-b8c1-0f7211c472f8.png" width="20" height="20"> 🔹 𝐂𝐫𝐞𝐚𝐭𝐞𝐬 𝐒𝐚𝐭𝐢𝐬𝐟𝐲𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐟𝐨𝐫 𝐔𝐬𝐞𝐫𝐬 𝐨𝐟 𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐚𝐬 𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫
 
 
 
