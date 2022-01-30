@@ -2,7 +2,7 @@
 
 # I am Yash Mewati 
 
-<img src="https://user-images.githubusercontent.com/85125898/151710645-58178004-2659-4337-84c0-8c1814d00077.gif" width="1440" height="200"> 
+<img src="https://user-images.githubusercontent.com/85125898/151710645-58178004-2659-4337-84c0-8c1814d00077.gif" width="1440" height="552"> 
 
 
 
