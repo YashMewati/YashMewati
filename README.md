@@ -1,4 +1,4 @@
-### Hello  :wave: <img src="https://user-images.githubusercontent.com/85125898/151710405-43220a31-c5dc-47c7-a310-1dd953340d98.gif" width="50" height="50"> <img src="https://user-images.githubusercontent.com/85125898/151710331-d32f1b9c-ca11-4ff8-bc64-78233cd8740a.gif" width="40" height="40">
+### Hello  :wave: <img src="https://user-images.githubusercontent.com/85125898/151710405-43220a31-c5dc-47c7-a310-1dd953340d98.gif" width="50" height="50"> 
 
 # I am Yash Mewati 
 
