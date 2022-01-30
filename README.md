@@ -1,4 +1,4 @@
-### नमस्ते  Hello 	:pray: :wave: <img src="https://user-images.githubusercontent.com/85125898/151709611-a8c555a6-2ef8-4eb5-b20b-6c59ed7fba25.gif" width="80" height="80">
+### नमस्ते  Hello 	:pray: :wave: <img src="https://user-images.githubusercontent.com/85125898/151709611-a8c555a6-2ef8-4eb5-b20b-6c59ed7fba25.gif" width="60" height="50">
 
 
 # I am Yash Mewati 
