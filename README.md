@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/85125898/151712270-ffd26734-92fd-4ff9-a9e1-1244ea0c5563.png" width="20" height="20"> 🔹 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠, 𝐀𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐚𝐧𝐝 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐚𝐬 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭
 
-<img src="https://user-images.githubusercontent.com/85125898/151712370-629aface-3728-408b-99db-ee2dd719aeee.png" width="20" height="20"> 🔹 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐂𝐫𝐞𝐚𝐭𝐞 𝐭𝐡𝐞 𝐀𝐈 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐜𝐚𝐩𝐚𝐛𝐥𝐞 𝐨𝐟 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐦𝐚𝐤𝐢𝐧𝐠 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧𝐬 𝐚𝐬 𝐌𝐋 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
+<img src="https://user-images.githubusercontent.com/85125898/151712979-649fee56-3792-45aa-b37c-92e34e1c4db7.png" width="20" height="20"> 🔹 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐂𝐫𝐞𝐚𝐭𝐞 𝐭𝐡𝐞 𝐀𝐈 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐜𝐚𝐩𝐚𝐛𝐥𝐞 𝐨𝐟 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐦𝐚𝐤𝐢𝐧𝐠 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧𝐬 𝐚𝐬 𝐌𝐋 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
 <img src="https://user-images.githubusercontent.com/85125898/151712919-fbd05fc3-9014-481e-976c-db8f01e7c42d.png" width="20" height="20"> 🔹 𝐓𝐡𝐞 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐌𝐚𝐧𝐮𝐟𝐚𝐜𝐭𝐮𝐫𝐢𝐧𝐠, 𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐨𝐟 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐬 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
