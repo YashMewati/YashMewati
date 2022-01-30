@@ -2,7 +2,8 @@
 
 # I am Yash Mewati 
 
-![ezgif-5-bd0669bab3](https://user-images.githubusercontent.com/85125898/151709378-8afd2ddb-b707-4ca6-ae60-58b46ff1910a.gif)
+<img src="https://user-images.githubusercontent.com/85125898/151710532-25ee6381-09d6-477d-b640-d620a090a342.gif" width="1440" height="520"> 
+
 
 
 
