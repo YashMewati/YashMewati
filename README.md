@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/85125898/151712448-2cb367a1-f845-4112-b8c1-0f7211c472f8.png" width="20" height="20"> 🔹 𝐂𝐫𝐞𝐚𝐭𝐞𝐬 𝐒𝐚𝐭𝐢𝐬𝐟𝐲𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐟𝐨𝐫 𝐔𝐬𝐞𝐫𝐬 𝐨𝐟 𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐚𝐬 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫
 
-
+:page_with_curl:  Please have a look at my[Yash Mewati_Resume_DS.pdf](https://github.com/YashMewati/YashMewati/files/7966690/Yash.Mewati_Resume_DS.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 
