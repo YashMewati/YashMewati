@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/85125898/151712919-fbd05fc3-9014-481e-976c-db8f01e7c42d.png" width="20" height="20"> 🔹 𝐓𝐡𝐞 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐌𝐚𝐧𝐮𝐟𝐚𝐜𝐭𝐮𝐫𝐢𝐧𝐠, 𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐨𝐟 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐬 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
-<img src="https://user-images.githubusercontent.com/85125898/151712448-2cb367a1-f845-4112-b8c1-0f7211c472f8.png" width="20" height="20"> 🔹 𝐂𝐫𝐞𝐚𝐭𝐞𝐬 𝐒𝐚𝐭𝐢𝐬𝐟𝐲𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐟𝐨𝐫 𝐔𝐬𝐞𝐫𝐬 𝐨𝐟 𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐚𝐬 𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫
+<img src="https://user-images.githubusercontent.com/85125898/151712448-2cb367a1-f845-4112-b8c1-0f7211c472f8.png" width="20" height="20"> 🔹 𝐂𝐫𝐞𝐚𝐭𝐞𝐬 𝐒𝐚𝐭𝐢𝐬𝐟𝐲𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐟𝐨𝐫 𝐔𝐬𝐞𝐫𝐬 𝐨𝐟 𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐚𝐬 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫
 
 
 
