@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/85125898/151710645-58178004-2659-4337-84c0-8c1814d00077.gif" width="1800" height="200"> 
 ### Hello  :wave: <img src="https://user-images.githubusercontent.com/85125898/151710405-43220a31-c5dc-47c7-a310-1dd953340d98.gif" width="50" height="50"> 
-<h1 align="center">I'm Yash <img src="https://user-images.githubusercontent.com/85125898/151710866-529317e6-6430-431b-986d-aeeed1d6d7ea.gif" width="40" height="40"></h1>
+<h1 align="center">𝐈'𝐦  𝐘𝐚𝐬𝐡. <img src="https://user-images.githubusercontent.com/85125898/151710866-529317e6-6430-431b-986d-aeeed1d6d7ea.gif" width="40" height="40"></h1>
 
 
 
