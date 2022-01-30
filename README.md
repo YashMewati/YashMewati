@@ -15,7 +15,7 @@
 
 :page_with_curl: 🔹 𝐏𝐥𝐞𝐚𝐬𝐞 𝐡𝐚𝐯𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐭 𝐦𝐲 [𝐑𝐞𝐬𝐮𝐦𝐞](https://github.com/YashMewati/YashMewati/files/7966690/Yash.Mewati_Resume_DS.pdf) 𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐝𝐞𝐭𝐚𝐢𝐥𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞. 𝐈'𝐦 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐚𝐧𝐝 𝐬𝐮𝐠𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐬!
 
-<img src="https://user-images.githubusercontent.com/85125898/151713498-884c482c-4648-4c53-86f1-0209da0e8e4e.png" width="20" height="20"> 🔹 𝐈𝐧 𝐅𝐫𝐞𝐞 𝐓𝐢𝐦𝐞 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 - [𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 𝐔𝐫𝐛𝐚𝐧 𝐑𝐞𝐠𝐨](https://www.youtube.com/c/URBANREGOYashMewati/featured)
+<img src="https://user-images.githubusercontent.com/85125898/151713498-884c482c-4648-4c53-86f1-0209da0e8e4e.png" width="20" height="20"> 🔹 𝐈𝐧 𝐌𝐲 𝐅𝐫𝐞𝐞 𝐓𝐢𝐦𝐞 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 - [𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 𝐔𝐫𝐛𝐚𝐧 𝐑𝐞𝐠𝐨](https://www.youtube.com/c/URBANREGOYashMewati/featured)
 
 
 
