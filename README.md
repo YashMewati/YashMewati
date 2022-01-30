@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/85125898/151713498-884c482c-4648-4c53-86f1-0209da0e8e4e.png" width="20" height="20"> 🔹 𝐈𝐧 𝐅𝐫𝐞𝐞 𝐓𝐢𝐦𝐞 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 - [𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 𝐔𝐫𝐛𝐚𝐧 𝐑𝐞𝐠𝐨](https://www.youtube.com/c/URBANREGOYashMewati/featured)
 
-![3225180_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/85125898/151713498-884c482c-4648-4c53-86f1-0209da0e8e4e.png)
+
 
 
 
