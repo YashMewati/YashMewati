@@ -1,7 +1,6 @@
 ### Hello  :wave: <img src="https://user-images.githubusercontent.com/85125898/151710405-43220a31-c5dc-47c7-a310-1dd953340d98.gif" width="50" height="50"> 
 
-# 𝐈'𝐦 𝐘𝐚𝐬𝐡
-
+#  𝐈'𝐦  𝐘𝐚𝐬𝐡.
 <img src="https://user-images.githubusercontent.com/85125898/151710645-58178004-2659-4337-84c0-8c1814d00077.gif" width="1800" height="350"> 
 
 
