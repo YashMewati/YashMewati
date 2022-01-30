@@ -1,5 +1,5 @@
-### नमस्ते  	:pray:
-### Hello    :wave:
+### नमस्ते  Hello 	:pray: :wave:
+
 
 ![tumblr_n74dlp9o8T1shpedgo1_500](https://user-images.githubusercontent.com/85125898/151706090-f1117823-64b3-4651-ad56-c0ece749a07e.gif)
 
