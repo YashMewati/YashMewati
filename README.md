@@ -2,7 +2,9 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨! <img src="https://user-images.githubusercontent.com/85125898/151710405-43220a31-c5dc-47c7-a310-1dd953340d98.gif" width="50" height="50"></h1>
 <h1 align="center">𝐈'𝐦  𝐘𝐚𝐬𝐡. <img src="https://user-images.githubusercontent.com/85125898/151710866-529317e6-6430-431b-986d-aeeed1d6d7ea.gif" width="40" height="40"></h1>
 
-### :man_technologist: Ａｂｏｕｔ Ｍｅ
+
+
+### :man_technologist: Ａｂｏｕｔ Ｍｅ   <img src="https://user-images.githubusercontent.com/85125898/151852414-dbdd91cd-6c98-4524-8af0-1bd94e7ffe01.gif" width="50" height="40">
 
 
 <img src="https://user-images.githubusercontent.com/85125898/151713022-080f8a0f-0089-4b5b-aba3-f05596ab49c4.png" width="20" height="20"> 🔹 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠, 𝐀𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐚𝐧𝐝 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐚𝐬 [𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭](https://github.com/YashMewati?tab=repositories)
