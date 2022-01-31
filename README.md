@@ -60,7 +60,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 
-### :money_with_wings:	Ｃｏｎｔａｃｔ <img src="user-images.githubusercontent.com/85125898/151850804-2f208633-b9b1-4352-94e2-8cd25810b844.gif" width="24" height="24">
+### :money_with_wings:	Ｃｏｎｔａｃｔ <img src="https://user-images.githubusercontent.com/85125898/151851083-ae19e740-7c2a-4d14-9a65-c79130a4643b.gif" width="50" height="50">
 
 ---
 [![Gmail](https://user-images.githubusercontent.com/85125898/151784386-126bd1ae-ec3a-479f-ae6c-7b37d16e0a0c.png)][1]
