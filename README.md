@@ -62,13 +62,16 @@
 #### :money_with_wings:	Ｃｏｎｔａｃｔ
 
 ---
-[![Gmail](https://user-images.githubusercontent.com/85125898/151783163-d108cca1-9970-4a2b-b236-6025843255c9.png)][1]
-[![github](https://user-images.githubusercontent.com/85125898/151783033-761c00d4-6dce-41d5-a49e-d9bd535ca9a5.png)][2]
-[![linkedin](https://user-images.githubusercontent.com/85125898/151782706-8aaa05a9-174c-4951-8190-77121ab5bd0c.png)][3]
+[![Gmail](https://user-images.githubusercontent.com/85125898/151783963-390881ff-09d0-4d7d-be1e-eb41ee45db73.png)][1]
+[![github](https://user-images.githubusercontent.com/85125898/151784164-0ba0613e-a7ad-4d85-9b63-375cce1a90fc.png)][2]
+[![linkedin](https://user-images.githubusercontent.com/85125898/151784094-8cfd25bb-2ec0-4f26-addc-118717664e91.png)][3]
 ---
 [1]: chintumewati8@gmail.com
 [2]: https://github.com/YashMewati
 [3]: https://www.linkedin.com/in/yash-mewati-38b75320b
+
+
+
 
 
 
