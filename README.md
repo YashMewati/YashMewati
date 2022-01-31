@@ -70,7 +70,7 @@
 [2]: https://github.com/YashMewati
 [3]: https://www.linkedin.com/in/yash-mewati-38b75320b
 
-https://github-readme-stats.vercel.app/api?username={YashMewati}
+![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashmewati&show_icons=true&theme=radical)
 
 
 
