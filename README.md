@@ -19,7 +19,8 @@
 
 <img src="https://user-images.githubusercontent.com/85125898/151713498-884c482c-4648-4c53-86f1-0209da0e8e4e.png" width="20" height="20"> 🔹 𝐈𝐧 𝐌𝐲 𝐅𝐫𝐞𝐞 𝐓𝐢𝐦𝐞 𝐈'𝐦 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 - [𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 𝐔𝐫𝐛𝐚𝐧 𝐑𝐞𝐠𝐨](https://www.youtube.com/c/URBANREGOYashMewati/featured)
 
-![5296501_linkedin_network_linkedin logo_icon]((https://user-images.githubusercontent.com/85125898/151775863-b33ce953-c1f3-4d9c-9ad5-498fccd5bf84.png)[Linkedin](https://www.linkedin.com/in/yash-mewati-38b75320b)
+![5296501_linkedin_network_linkedin logo_icon]((https://user-images.githubusercontent.com/85125898/151775863-b33ce953-c1f3-4d9c-9ad5-498fccd5bf84.png)
+[Linkedin](https://www.linkedin.com/in/yash-mewati-38b75320b)
 
 
 
