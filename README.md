@@ -20,10 +20,6 @@
 <img src="https://user-images.githubusercontent.com/85125898/151713498-884c482c-4648-4c53-86f1-0209da0e8e4e.png" width="20" height="20"> 🔹 𝐈𝐧 𝐌𝐲 𝐅𝐫𝐞𝐞 𝐓𝐢𝐦𝐞 𝐈'𝐦 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 - [𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 𝐔𝐫𝐛𝐚𝐧 𝐑𝐞𝐠𝐨](https://www.youtube.com/c/URBANREGOYashMewati/featured)
 
 
-<img src="https://user-images.githubusercontent.com/85125898/151776499-c742417b-dbab-46c6-8192-68389abf320a.png" width="40" height="40">[Linkedin](https://www.linkedin.com/in/yash-mewati-38b75320b)
-
-
-
 ## :hammer_and_wrench:	Ｔｅｃｈ Ｓｔａｃｋ
 
 #### :electron: Ｌａｎｇｕａｇｅｓ
@@ -63,3 +59,10 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 
+#### :money_with_wings:	Ｃｏｎｔａｃｔ
+
+<ul class="icons">
+							<li><a href="chintumewati8@gmail.com" class="icon brands fa-gmail"><span class="label">Gmail</span></a></li>
+				      <li><a href="https://www.linkedin.com/in/yash-mewati-38b75320b" class="icon brands fa-Linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/YashMewati" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
