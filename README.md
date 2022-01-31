@@ -79,9 +79,21 @@
 ![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
 ](https://www.coursera.org/account/accomplishments/professional-cert/BX287WN7NYXL)
 
+![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
+](https://www.coursera.org/account/accomplishments/verify/NFUA9LJ6E3YZ)
+
+![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐒𝐐𝐋 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
+](https://www.coursera.org/account/accomplishments/verify/BNTS935M45UP)
+
+![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥𝐬 𝐰𝐢𝐭𝐡 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰
+](https://www.coursera.org/account/accomplishments/verify/RKBLCXBD2Y2Q)
+
+![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐰𝐢𝐭𝐡 𝐊𝐞𝐫𝐚𝐬
+](https://www.coursera.org/account/accomplishments/verify/BD5F6M5DQ53L)
+
 <img src="https://user-images.githubusercontent.com/85125898/151848158-c3dcf8e4-3ccf-4f1c-ac8a-3d6d2f80303b.png" width="25" height="24"> [𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩](https://www.udemy.com/certificate/UC-92a67885-bc2b-4dd7-af8f-75abbb4b0d27/)
 
-
+<img src="https://user-images.githubusercontent.com/85125898/151848158-c3dcf8e4-3ccf-4f1c-ac8a-3d6d2f80303b.png" width="25" height="24"> [𝐓𝐡𝐞 𝐔𝐥𝐭𝐢𝐦𝐚𝐭𝐞 𝐌𝐲𝐒𝐐𝐋 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩: 𝐆𝐨 𝐟𝐫𝐨𝐦 𝐒𝐐𝐋 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫 𝐭𝐨 𝐄𝐱𝐩𝐞𝐫𝐭](https://www.udemy.com/certificate/UC-80455d2a-f517-45a9-833e-8ab965a7b291/)
 
 
 
