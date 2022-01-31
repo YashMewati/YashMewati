@@ -62,11 +62,15 @@
 #### :money_with_wings:	Ｃｏｎｔａｃｔ
 
 ---
-[![github](https://user-images.githubusercontent.com/85125898/151781716-ad86d67d-203d-4a0e-b670-b1acc91d60c3.gif)][1][![linkedin](https://user-images.githubusercontent.com/85125898/151782706-8aaa05a9-174c-4951-8190-77121ab5bd0c.png)][2][![Gmail](https://user-images.githubusercontent.com/85125898/151782336-4d47d63d-7f78-4408-aa3f-909c0fb358f3.gif)][3]
+[![Gmail](https://user-images.githubusercontent.com/85125898/151783163-d108cca1-9970-4a2b-b236-6025843255c9.png)][1]
+[![github](https://user-images.githubusercontent.com/85125898/151783033-761c00d4-6dce-41d5-a49e-d9bd535ca9a5.png)][2][![linkedin](https://user-images.githubusercontent.com/85125898/151782706-8aaa05a9-174c-4951-8190-77121ab5bd0c.png)][3]
 ---
-[1]: https://github.com/YashMewati
-[2]: https://www.linkedin.com/in/yash-mewati-38b75320b
-[3]: chintumewati8@gmail.com
+[1]: chintumewati8@gmail.com
+[2]: https://github.com/YashMewati
+[3]: https://www.linkedin.com/in/yash-mewati-38b75320b
 
 
-![5296501_linkedin_network_linkedin logo_icon](https://user-images.githubusercontent.com/85125898/151782706-8aaa05a9-174c-4951-8190-77121ab5bd0c.png)
+
+
+
+
