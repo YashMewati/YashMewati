@@ -76,10 +76,10 @@
 
 ### 📜 Ｃｅｒｔｉｆｉｃａｔｅ
 
-![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png)[𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
+![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
 ](https://www.coursera.org/account/accomplishments/professional-cert/BX287WN7NYXL)
 
-<img src="https://user-images.githubusercontent.com/85125898/151848158-c3dcf8e4-3ccf-4f1c-ac8a-3d6d2f80303b.png" width="24" height="24">[𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩](https://www.udemy.com/certificate/UC-92a67885-bc2b-4dd7-af8f-75abbb4b0d27/)
+<img src="https://user-images.githubusercontent.com/85125898/151848158-c3dcf8e4-3ccf-4f1c-ac8a-3d6d2f80303b.png" width="25" height="24"> [𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩](https://www.udemy.com/certificate/UC-92a67885-bc2b-4dd7-af8f-75abbb4b0d27/)
 
 
 
