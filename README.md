@@ -61,8 +61,30 @@
 
 #### :money_with_wings:	Ｃｏｎｔａｃｔ
 
-<ul class="icons">
-							<li><a href="chintumewati8@gmail.com" class="icon brands fa-gmail"><span class="label">Gmail</span></a></li>
-				      <li><a href="https://www.linkedin.com/in/yash-mewati-38b75320b" class="icon brands fa-Linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://github.com/YashMewati" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-						</ul>
+<div class="social-icons">
+            <div class="social-icons-image">
+                <a href="http://www.instagram.com">
+                    <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
+                </a>
+            </div>
+            <div class="social-icons-image">
+                <a href="http://www.facebook.com">
+                    <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon">
+                </a>
+            </div>
+            <div class="social-icons-image">
+                <a href="http://www.twitter.com">
+                    <img src="http://jonbennallick.co.uk/wp-content/uploads/2012/11/Twitter-Logo-Icon-by-Jon-Bennallick-02-300x300.png" alt="Twitter Icon">
+                </a>
+            </div>
+            <div class="social-icons-image">
+                <a href="http://plus.google.com">
+                    <img src="http://www.androidpolice.com/wp-content/uploads/2013/06/nexusae0_g.png" alt="Google Plus Icon">
+                </a>
+            </div>
+            <div class="social-icons-image">
+                <a href="http://www.linkedin.com">
+                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
+                </a>
+            </div>
+        </div>
