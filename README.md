@@ -92,6 +92,8 @@
 ![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png)  [𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐰𝐢𝐭𝐡 𝐊𝐞𝐫𝐚𝐬
 ](https://www.coursera.org/account/accomplishments/verify/BD5F6M5DQ53L)
 
+![1298745_google_brand_branding_logo_network_icon](https://user-images.githubusercontent.com/85125898/151853547-ea1e9cc0-2d22-4f92-816c-f05dcbbb40a7.png) [𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐔𝐬𝐞𝐫 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 (𝐔𝐗) 𝐃𝐞𝐬𝐢𝐠𝐧](https://www.coursera.org/account/accomplishments/verify/62E2V59ZN686)
+
 <img src="https://user-images.githubusercontent.com/85125898/151848158-c3dcf8e4-3ccf-4f1c-ac8a-3d6d2f80303b.png" width="25" height="24">  [𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩](https://www.udemy.com/certificate/UC-92a67885-bc2b-4dd7-af8f-75abbb4b0d27/)
 
 <img src="https://user-images.githubusercontent.com/85125898/151848158-c3dcf8e4-3ccf-4f1c-ac8a-3d6d2f80303b.png" width="25" height="24">  [𝐓𝐡𝐞 𝐔𝐥𝐭𝐢𝐦𝐚𝐭𝐞 𝐌𝐲𝐒𝐐𝐋 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩: 𝐆𝐨 𝐟𝐫𝐨𝐦 𝐒𝐐𝐋 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫 𝐭𝐨 𝐄𝐱𝐩𝐞𝐫𝐭](https://www.udemy.com/certificate/UC-80455d2a-f517-45a9-833e-8ab965a7b291/)
