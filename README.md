@@ -74,7 +74,7 @@
 ![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashmewati&show_icons=true&theme=radical)
 
 
-### 📜 Ｃｅｒｔｉｆｉｃａｔｅ <img src="https://user-images.githubusercontent.com/85125898/151849368-1c1ef192-09c1-4259-a62b-4ec90b85af1d.gif" width="50" height="50">
+### 📜 Ｃｅｒｔｉｆｉｃａｔｅ <img src="https://user-images.githubusercontent.com/85125898/151850395-db184fa0-72aa-4cfd-bfb4-36bcd70d5f64.png" width="50" height="50">
 
 ![294677_ibm_icon (1)](https://user-images.githubusercontent.com/85125898/151847735-78cb340a-efc1-46ab-8227-3a49c4cb7e16.png) [𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
 ](https://www.coursera.org/account/accomplishments/professional-cert/BX287WN7NYXL)
