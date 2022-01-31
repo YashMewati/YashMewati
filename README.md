@@ -64,7 +64,7 @@
 <div class="social-icons">
             
             <div class="social-icons-image">
-                <a href="http://www.linkedin.com">
+                <a href="https://www.linkedin.com/in/yash-mewati-38b75320b">
                     <img src="http://user-images.githubusercontent.com/85125898/151779722-e46c8a91-bd4f-439a-9b15-42383c4b5006.png" width="20" height="20" alt="Linkedin Icon">
                 </a>
             </div>
