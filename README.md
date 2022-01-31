@@ -61,13 +61,11 @@
 
 #### :money_with_wings:	Ｃｏｎｔａｃｔ
 
-<div class="social-icons">
-            
-            <div class="social-icons-image">
-                <a href="https://www.linkedin.com/in/yash-mewati-38b75320b">
-                    <img src="http://user-images.githubusercontent.com/85125898/151779722-e46c8a91-bd4f-439a-9b15-42383c4b5006.png" width="20" height="20" alt="Linkedin Icon">
-                </a>
-            </div>
-        </div>
+---
+[![github](https://user-images.githubusercontent.com/85125898/151781716-ad86d67d-203d-4a0e-b670-b1acc91d60c3.gif)][1][![linkedin](https://user-images.githubusercontent.com/85125898/151781943-31327d94-3f72-4c9f-8fbf-af9efc5dbd07.gif)][2][![Gmail](https://user-images.githubusercontent.com/85125898/151782336-4d47d63d-7f78-4408-aa3f-909c0fb358f3.gif)][3]
+---
+[1]: https://github.com/YashMewati
+[2]: https://www.linkedin.com/in/yash-mewati-38b75320b
+[3]: chintumewati8@gmail.com
 
 
